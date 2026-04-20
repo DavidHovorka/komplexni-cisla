@@ -7,6 +7,7 @@ Tato interaktivní prezentace vizualizuje základy komplexních čísel. Je vytv
 ## Jak prezentaci ovládat
 * **Šipka vpravo** - krok vpřed
 * **Šipka vlevo** - krok zpět
+* **Mezerník** - pozastavit/pokračovat animaci
 * **F** - zapnutí režimu celé obrazovky
 * **ESC** - vypnutí režimu celé obrazovky
 * **G** - skočit na snímek podle pořadí
