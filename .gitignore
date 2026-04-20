@@ -1,0 +1,12 @@
+# ignore all
+*
+
+# allow git files
+!.gitignore
+
+# allow html presentation
+!index.html
+
+# Allow the assets folder and everything inside
+!index_assets/
+!index_assets/**
